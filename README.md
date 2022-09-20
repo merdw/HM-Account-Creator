@@ -5,7 +5,7 @@
  
 ## Usage
 
-Download .exe in [Relases Page](https://github.com/merdw/HM-Account-Creator/releases/tag/v1.0)
+Download .exe in [Releases Page](https://github.com/merdw/HM-Account-Creator/releases/tag/v1.0)
 
 
 Run the exe. Write anything unique username like "merdw3t" press enter. It will be create an account for all days of the year by choosing the birthdays.
